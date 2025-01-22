@@ -1,0 +1,59 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WILA Rules</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>WILA League Regulations 📘</h1>
+    </header>
+    <main>
+        <section>
+            <h2>✦ Forfeits</h2>
+            <p><strong>A team that fails to arrive within 15 minutes of the match starting will get an auto loss and the team that does arrive on time will get an auto win along with a +3 goal difference (auto win 3-0)</strong></p>
+            <ul>
+                <li>Result - forfeit loss</li>
+                <li>Decision - not changeable</li>
+            </ul>
+        </section>
+        <section>
+            <h2>✦ Postpones</h2>
+            <p><strong>You are not able to postpone a game on the same day of the original time...</strong></p>
+            <ul>
+                <li>Result - N/A</li>
+                <li>Decision - N/A</li>
+            </ul>
+        </section>
+        <section>
+            <h2>✦ Jailing</h2>
+            <p><strong>A manager is able to Jail you until the opening of a transfer Window...</strong></p>
+            <ul>
+                <li>Result - N/A</li>
+                <li>Decision - N/A</li>
+            </ul>
+        </section>
+        <section>
+            <h2>✦ Alts</h2>
+            <p><strong>Using an alt to be able to play a game when you are already signed to a club is forbidden...</strong></p>
+            <ul>
+                <li>Result - Main and alt banned</li>
+                <li>Decision - Not changeable</li>
+            </ul>
+        </section>
+        <section>
+            <h2>✦ Hosting matches</h2>
+            <p><strong>If decided by the teams - the home team will host one leg in their region...</strong></p>
+            <ul>
+                <li>Result - N/A</li>
+                <li>Decision - Changeable if the away team agrees to keep the 1st leg host</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 WILA League</p>
+    </footer>
+</body>
+</html> -->
